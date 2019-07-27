@@ -49,3 +49,13 @@ str_list.sort(reverse=True)
 # 逆序（反转）
 num_list.reverse()
 str_list.reverse()
+
+# 遍历
+
+lis_arr = ['aa','bb','cc','dd']
+
+for name in lis_arr:
+    print(name)
+
+
+
