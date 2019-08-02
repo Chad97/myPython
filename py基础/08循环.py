@@ -37,9 +37,9 @@ def multiple_table():
     while row <= 9:
         col = 1
         while col <= row:
-            print('%d x %d = %d '%(row, col, row * col), end="\t")
+            print('%d x %d = %d ' % (row, col, row * col), end="\t")
 
-            col +=1
+            col += 1
 
         print('\n')
         # 在每一行输出完毕的末尾增加一个换行
@@ -47,7 +47,6 @@ def multiple_table():
 
 # 转义字符 \
 # \n 换行 \t 横向制表符 \r 回车
-
 
 
 '''
