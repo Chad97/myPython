@@ -49,6 +49,8 @@ def multiple_table():
 # \n 换行 \t 横向制表符 \r 回车
 
 
+multiple_table()
+
 '''
 赋值运算符
 =	    简单的赋值运算符	    c = a + b 将 a + b 的运算结果赋值为 c
