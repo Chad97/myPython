@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb15118f-bfc3-465b-962a-72fd26ba2898" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py基础/08循环.py" beforeDir="false" />
-    </list>
+    <list default="true" id="eb15118f-bfc3-465b-962a-72fd26ba2898" name="默认的" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,12 +277,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564896714750</updated>
       <workItem from="1564896718598" duration="269000" />
-      <workItem from="1565002703531" duration="18774000" />
+      <workItem from="1565002703531" duration="18911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19043000" />
+    <option name="totallyTimeSpent" value="19180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -306,7 +303,7 @@
       <window_info anchor="bottom" id="Thumbnails" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30911064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30911064" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995381" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
