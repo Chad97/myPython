@@ -18,6 +18,6 @@ while True:
         print('欢迎再次使用名片管理系统')
         break
         #  退出系统 pass 表示一个占位符，能保证程序结构正确
-        pass
+        #  pass
     else:
         print('请输入的指令不正确，请重新输入')
