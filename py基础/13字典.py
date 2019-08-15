@@ -31,7 +31,7 @@ languages = {
 
 # 在遍历字典的时候使用set去重
 print('去重后：')
-for lan in set(languages.keys()):
+for lan in set(languages.values()):
     print(lan.title())
 
 

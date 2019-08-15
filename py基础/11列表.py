@@ -7,11 +7,11 @@ print(list_name.index('大米'))
 list_name[2] = 'aaa'
 
 # 3. 增加
-list_name.append("白面")  # 列表末尾作家书记
+list_name.append("白面")  # 列表末尾增加数据
 
 list_name.insert(2, '123')  # 指定索引插入数据
 
-temp_list = ['1','2','3']
+temp_list = ['1', '2', '3']
 
 list_name.extend(temp_list)  # 把列表追加到列表末尾
 
@@ -25,16 +25,16 @@ list_name.pop(0)  # 默认删除最后一个，指定后删除对应索引
 
 # 5. 统计
 ll = len(list_name)  # 统计列表中列表的长度
-print('长度为：%d'%ll)
+print('长度为：%d' % ll)
 
 cc = list_name.count('3')
-print('3出现了%d次'%cc)
+print('3出现了%d次' % cc)
 
 print(list_name)
 
 # 6. 排序
 num_list = [1,2,3]
-str_list = ['a','b','c']
+str_list = ['a', 'b', 'c']
 
 
 # 升序
@@ -52,7 +52,7 @@ str_list.reverse()
 
 # 遍历
 
-lis_arr = ['aa','bb','cc','dd']
+lis_arr = ['aa', 'bb', 'cc', 'dd']
 
 for name in lis_arr:
     print(name)

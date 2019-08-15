@@ -16,6 +16,6 @@ def sum_num(num):
     return temp + num
 
 
-s = sum_num(3)
+s = sum_num(100)
 print(s)
 
