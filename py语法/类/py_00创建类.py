@@ -114,5 +114,3 @@ my_car.car_info()
 my_car2 = Car('Benz', 'GLA', '2019')
 
 
-def say():
-    print(123132)
