@@ -8,12 +8,13 @@ class TestEmployee(unittest.TestCase):
         name = '张三'
         self.zs_Employee = Employee(name)
 
-    def default_test(self):
+    def test_default_test(self):
         self.assertEqual('张三', self.zs_Employee.name)
 
-    def add_salary(self):
-        self.zs_Employee.give_raise(3000)
-        self.assertEqual(13000, self.zs_Employee.re_salary)
+    def test_add_salary(self):
+        self.zs_Employee.give_raise(5000)
+        self.assertEqual(15000, self.zs_Employee.salary)
 
 
-unittest.main()
+if __name__=="__main__":
+    unittest.main()

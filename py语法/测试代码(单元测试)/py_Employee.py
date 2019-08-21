@@ -19,6 +19,9 @@ class Employee():
 
     def print_salary(self):
         """ 打印工资 """
-        print('%s 的 工资是： %d' % (self.name, self.salary))
+        print('%s 的工资是:  %d' % (self.name, self.salary))
 
 
+# xiaomin = Employee('小明')
+# xiaomin.give_raise(10000)
+# xiaomin.print_salary()
