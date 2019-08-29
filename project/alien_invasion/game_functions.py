@@ -96,6 +96,7 @@ def create_fleet(ai_settings, screen, ship, aliens):
     number_rows = get_number_rows(ai_settings, ship.rect.height, alien.rect.height)
 
     # 创建外星人群
+    # TODO 报错 未完成
     for row_number in range(number_rows):
         for alien_number in range(number_aliens_x):
             create_alien(ai_settings, screen, aliens, alien_number, row_number)
