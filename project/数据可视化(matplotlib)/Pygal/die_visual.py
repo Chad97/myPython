@@ -30,3 +30,4 @@ hist.y_title = "次数"
 
 hist.add('D6 + D10', frequencies)
 hist.render_to_file('die_visual.svg')
+
