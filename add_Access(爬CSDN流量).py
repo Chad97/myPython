@@ -1,5 +1,3 @@
-# author:ytouch
-# date:2019/07/27
 # this py is used for brushing pageview for csdn
 
 # 导入相关爬虫库和解析xml库即可
