@@ -1,4 +1,3 @@
-## My first Python prject
-
+## :snake:  My first Python prject
 
 
