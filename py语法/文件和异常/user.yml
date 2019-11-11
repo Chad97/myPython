@@ -1,0 +1,18 @@
+# yaml文件
+user: test
+password: 123456
+
+list:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+
+test:
+- "\u963F\u8428\u5FB7"
+- asda
+- '123'
+
+a: AAA
+
